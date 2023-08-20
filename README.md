@@ -19,10 +19,13 @@ SO THAT I can gauge my progress compared to my peers.
 Test your knowledge of basic HTML, CSS, and JavaScript by taking my multiple choice, time-sensitive quiz! Once you start the quiz, you have 75 seconds to complete the questions. Your score depends on how quickly you answer the questions, and a time penalty is issued when questions are answered incorrectly. Once you have completed the quiz, type your initials into the submission box and watch your score appear on the leaderboard via the HighScore page.
 
 ## Usage
- ```
- Click `Start Quiz` on the main page to begin the quiz. Select your answer choices and press `Next Question` to continue. Once you are finished, enter your initials into the box to be added to the leaderboard.
+ 
+ - Click `Start Quiz` on the main page to begin the quiz.
+ - Select your answer choices
+ - Press `Next Question` to continue
+ - Enter your initials into the box to be added to the leaderboard
+ - You have completed the quiz
 
-  ```
 
   ## Repository
   To check out my repo, click the link below:
