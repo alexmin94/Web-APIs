@@ -5,6 +5,7 @@
   - [User Story](#userstory)
   - [Description](#description)
   - [Usage](#usage)
+  - [Example](#example)
   - [Repository](#repository)
   - [License](#license)
 
@@ -25,6 +26,10 @@ Test your knowledge of basic HTML, CSS, and JavaScript by taking my multiple cho
  - Press `Next Question` to continue
  - Enter your initials into the box to be added to the leaderboard
  - You have completed the quiz
+
+ ## Example
+
+ <img width="1440" alt="Screen Shot 2023-08-20 at 10 31 39 PM" src="https://github.com/alexmin94/Web-APIs/assets/127912422/af82a0e9-0212-47e8-9250-95e79edd5f63">
 
 
   ## Repository
